@@ -1,0 +1,26 @@
+package com.itheima.a04Polymorphic;
+
+public class Dog extends Animal{
+//    	1.定义狗类
+//    属性：
+//    年龄，颜色
+//    行为:
+//    eat(String something)(something表示吃的东西)
+//    看家lookHome方法(无参数)
+
+
+    public Dog() {
+    }
+
+    public Dog(int age, String color) {
+        super(age, color);
+    }
+
+    @Override
+    public void Eat(String something) {
+        System.out.println(getAge()+"岁的"+getColor()+"颜色的狗两只前腿死死的抱住"+something+"猛吃");
+    }
+
+    public void lookhome(){
+        System.out.println("狗在看家");}
+}

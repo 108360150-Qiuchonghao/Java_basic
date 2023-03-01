@@ -7,7 +7,14 @@
       <module fileurl="file://$PROJECT_DIR$/day02-code/day02-code.iml" filepath="$PROJECT_DIR$/day02-code/day02-code.iml" />
       <module fileurl="file://$PROJECT_DIR$/day06-code/day06-code.iml" filepath="$PROJECT_DIR$/day06-code/day06-code.iml" />
       <module fileurl="file://$PROJECT_DIR$/day10-code/day10-code.iml" filepath="$PROJECT_DIR$/day10-code/day10-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myapi/myapi.iml" filepath="$PROJECT_DIR$/myapi/myapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mystatics/mystatics.iml" filepath="$PROJECT_DIR$/mystatics/mystatics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop-Polymorphic/oop-Polymorphic.iml" filepath="$PROJECT_DIR$/oop-Polymorphic/oop-Polymorphic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop-abstract/oop-abstract.iml" filepath="$PROJECT_DIR$/oop-abstract/oop-abstract.iml" />
       <module fileurl="file://$PROJECT_DIR$/oop-code/oop-code.iml" filepath="$PROJECT_DIR$/oop-code/oop-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop-interface/oop-interface.iml" filepath="$PROJECT_DIR$/oop-interface/oop-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop-interobject/oop-interobject.iml" filepath="$PROJECT_DIR$/oop-interobject/oop-interobject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop-package/oop-package.iml" filepath="$PROJECT_DIR$/oop-package/oop-package.iml" />
     </modules>
   </component>
 </project>
